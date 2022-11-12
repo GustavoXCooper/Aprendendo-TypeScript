@@ -1,4 +1,3 @@
-/*
 
 
 let nomes: any = ['nome1', 'nome2', 'nome3'];
@@ -9,5 +8,3 @@ let coisas: any = ['coisa1', 90, 'coisa2'];
 coisas.push(true);
 
 // Se usa só quando realmente necessário.
-
-*/
